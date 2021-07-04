@@ -1,0 +1,4 @@
+0. TODO Initialize the board in the log.txt file
+1. TODO Print the board to the IDLE
+2. TODO Check if the move is valid, switch if it is
+3. TODO Check all the board and see if each array is in the coreect order
